@@ -1,0 +1,10 @@
+body{
+  background: url("bg-01.jpg") no-repeat center center fixed; 
+  background-width: 100%;
+  background-height: auto; 
+  height: 100%;
+  background-position:background;
+  background-size:100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  }
